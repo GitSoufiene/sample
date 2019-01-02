@@ -10,7 +10,8 @@ public class Project1
    
    void methAddition(int x, int y)
    {
-	   return x+y;
+	   int z = x+y;
+	   return z;
    }
    
    void methMultip(int x, int y)
