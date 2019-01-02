@@ -15,8 +15,9 @@ public class Project1
    
    void methMultip(int x, int y)
    {
-	   int z = x*y;
-	   return z;
+	   int z = x*y + 1;
+	   z--;
+	   return z + 1;
    }
    
    void methSub(int x, int y)
