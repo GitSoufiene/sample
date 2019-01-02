@@ -18,4 +18,9 @@ public class Project1
 	   int z = x*y;
 	   return z;
    }
+   
+   void methSub(int x, int y)
+   {
+	   return x-y;
+   }
 }
