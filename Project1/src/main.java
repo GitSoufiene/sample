@@ -12,4 +12,9 @@ public class Project1
    {
 	   return x+y;
    }
+   
+   void methMultip(int x, int y)
+   {
+	   return x*y;
+   }
 }
