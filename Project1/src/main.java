@@ -15,7 +15,7 @@ public class Project1
    
    void methMultip(int x, int y)
    {
-	   int z = x*y;
+	   int z = x*y + 1;
 	   return z;
    }
 }
