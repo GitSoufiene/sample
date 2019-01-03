@@ -1,0 +1,4 @@
+[submodule "framework1"]
+	path = framework1
+	url = https://github.com/GitSoufiene/framework1.git
+	branch = dev
