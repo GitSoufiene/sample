@@ -25,4 +25,9 @@ public class Project1
    {
 	   return x-y;
    }
+   
+   int sqrt(int x)
+   {
+	   return racine(x+1);
+   }
 }
