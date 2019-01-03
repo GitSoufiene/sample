@@ -5,4 +5,6 @@ public class Project1
    void methMultip(int x, int y);
    
    void methSub(int x, int y);
+   
+   int sqrt(int x);
 }
