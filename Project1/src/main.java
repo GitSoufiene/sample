@@ -29,6 +29,6 @@ public class Project1
    int sqrt(int x)
    {
 	   // add comment
-	   return racine(x+1);
+	   return racine(x-1);
    }
 }
