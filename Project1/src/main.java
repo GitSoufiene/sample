@@ -31,4 +31,5 @@ public class Project1
 	   // add comment
 	   return racine(x-1);
    }
+   // test conflict 1
 }
