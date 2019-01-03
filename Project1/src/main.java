@@ -28,6 +28,6 @@ public class Project1
    
    int sqrt(int x)
    {
-	   return racine(x);
+	   return racine(x+1);
    }
 }
