@@ -2,3 +2,11 @@
 	path = framework1
 	url = https://github.com/GitSoufiene/framework1.git
 	branch = dev
+[submodule "Framework2"]
+	path = Framework2
+	url = https://github.com/GitSoufiene/Framework2.git
+	branch = oringin/dev
+[submodule "Framework3"]
+	path = Framework3
+	url = https://github.com/GitSoufiene/Framework3.git
+	branch = origin/dev
