@@ -10,3 +10,7 @@
 	path = Framework3
 	url = https://github.com/GitSoufiene/Framework3.git
 	branch = origin/dev
+[submodule "framework4"]
+	path = framework4
+	url = https://github.com/GitSoufiene/framework4.git
+	branch = ok
