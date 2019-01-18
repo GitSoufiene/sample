@@ -18,7 +18,7 @@ public class Project1
    {
 	   int z = x*y + 1;
 	   z--;
-	   return z + 1;
+	   return z - 1;
    }
    
    void methSub(int x, int y)
@@ -32,4 +32,5 @@ public class Project1
 	   return racine(x-1);
    }
    // test conflict 1
+   // add other comment
 }
